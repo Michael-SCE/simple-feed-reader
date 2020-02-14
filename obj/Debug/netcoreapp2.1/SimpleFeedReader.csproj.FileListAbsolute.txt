@@ -27,3 +27,4 @@ C:\Users\Michael\simple-feed-reader\SimpleFeedReader\obj\Debug\netcoreapp2.1\Sim
 C:\Users\Michael\simple-feed-reader\SimpleFeedReader\obj\Debug\netcoreapp2.1\SimpleFeedReader.RazorTargetAssemblyInfo.cs
 C:\Users\Michael\simple-feed-reader\SimpleFeedReader\obj\Debug\netcoreapp2.1\SimpleFeedReader.Views.pdb
 C:\Users\Michael\simple-feed-reader\SimpleFeedReader\obj\Debug\netcoreapp2.1\SimpleFeedReader.csproj.CopyComplete
+C:\Users\Michael\simple-feed-reader\SimpleFeedReader\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
